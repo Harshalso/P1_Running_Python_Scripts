@@ -17,3 +17,7 @@ true_boolean = True
 false_boolean = False
 print(type(true_boolean))
 print(type(false_boolean))
+
+kio = bool(age1)
+print(type(kio))
+
